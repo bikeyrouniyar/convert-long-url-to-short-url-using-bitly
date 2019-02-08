@@ -1,0 +1,8 @@
+instructions to the program
+
+1. move your directory to the shorten folder
+2. open the shorten folder and copy the url in the 'input.csv' file below the link header.
+3. run the node app.js in command prompt.
+4. open your browser and go to the localhost:8080/download
+5. the folder named output.csv will be downloaded having the list of url and their shorten urs(in bitly format)
+ 
